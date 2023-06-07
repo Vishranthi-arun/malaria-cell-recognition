@@ -6,7 +6,11 @@ To develop a deep neural network for Malaria infected cell recognition and to an
 
 ## Problem Statement and Dataset
 Malaria dataset of 27,558 cell images with an equal number of parasitized and uninfected cells. A level-set based algorithm was applied to detect and segment the red blood cells. The images were collected and annotated by medical professionals.Here we build a convolutional neural network model that is able to classify the cells.
+
+
 ![193736032-b5847f1f-f002-4edc-912a-eaf48444f1b0](https://github.com/MEENA155/malaria-cell-recognition/assets/94677128/468816d6-b927-4a2b-8212-e95abdfd6167)
+
+
 ## Neural Network Model:
 <img width="608" alt="A" src="https://github.com/MEENA155/malaria-cell-recognition/assets/94677128/0b9497b7-54a4-4d93-a401-6c082d76010f">
 
